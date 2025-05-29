@@ -23,7 +23,7 @@ This is my personal 15-days challenge to build mini web dev projects and solve o
 
 ---
 
-### ✅ Day 02  
+### ✅ Day 03  
 -  **Project:** Review carousel 
 -  **Code:** [`/Day03`](./Day03) 
 -  **LeetCode:** [268. Missing Number]( https://leetcode.com/problems/missing-number/description/)
