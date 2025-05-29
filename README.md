@@ -22,3 +22,10 @@ This is my personal 15-days challenge to build mini web dev projects and solve o
 -  **LeetCode:** [1422. Maximum Score After Splitting a String]( https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/)
 
 ---
+
+### ✅ Day 02  
+-  **Project:** Review carousel 
+-  **Code:** [`/Day03`](./Day03) 
+-  **LeetCode:** [268. Missing Number]( https://leetcode.com/problems/missing-number/description/)
+
+---

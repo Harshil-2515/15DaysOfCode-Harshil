@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(37, 37, 37);
+    height: 100vh;
+}
+
+.container{
+    text-align: center;
+    /* border: 2px solid red; */
+    width: 75vw;
+    margin: auto;
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.review{
+    text-decoration: underline rgb(43, 163, 255);
+    text-underline-offset: 12px;
+    color: white;
+}
+
+.box{
+    height: 524px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+    margin-top: 34px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 17px;
+    position: relative;
+}
+
+/* .propic{
+    height: 125px;
+    width: 125px;
+    background-color: aqua;
+    border-radius: 50%;
+    border: 4px solid rgb(77, 139, 253);
+    background-image: url(assets/ui-divya.jpg);
+    margin-bottom: 29px; 
+    position: relative; 
+} */
+
+.propic {
+    height: 125px;
+    width: 125px;
+    border-radius: 50%;
+    border: 4px solid rgb(77, 139, 253);
+    object-fit: cover;
+}
+
+
+.name{
+    font-size: 29px;
+    font-weight: 600;
+}
+
+.skills{
+    font-size: 20px;
+}
+
+.brief{
+    /* border: 2px solid red; */
+    padding: 12px;
+    margin: 0 18px;
+    font-weight: 300;
+}
+
+.btn{
+    font-size: 1rem;
+    padding: 8px 14px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 5px 10px;
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+.btn:hover{
+    box-shadow: 2px;
+    background-color: rgb(37, 146, 230);;
+    transition: 0.3s ease;
+}
