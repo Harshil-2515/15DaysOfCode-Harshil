@@ -29,3 +29,10 @@ This is my personal 15-days challenge to build mini web dev projects and solve o
 -  **LeetCode:** [268. Missing Number]( https://leetcode.com/problems/missing-number/description/)
 
 ---
+
+### ✅ Day 04  
+-  **Project:** Movie Search Site (OMDb_API) 
+-  **Code:** [`/Day04`](./Day04) 
+-  **LeetCode:** [1929. Concatenation of Array]( https://leetcode.com/problems/concatenation-of-array/description/)
+
+---
