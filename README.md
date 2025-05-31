@@ -36,3 +36,10 @@ This is my personal 15-days challenge to build mini web dev projects and solve o
 -  **LeetCode:** [1929. Concatenation of Array]( https://leetcode.com/problems/concatenation-of-array/description/)
 
 ---
+
+### ✅ Day 05  
+-  **Project:** Weather App 
+-  **Code:** [`/Day05`](./Day05) 
+-  **LeetCode:** [1470. Shuffle the Array]( https://leetcode.com/problems/shuffle-the-array/description/)
+
+---
