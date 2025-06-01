@@ -47,6 +47,6 @@ This is my personal 15-days challenge to build mini web dev projects and solve o
 ### ✅ Day 06  
 -  **Project:** Rock Paper & Scissors 
 -  **Code:** [`/Day06`](./Day06) 
--  **LeetCode:** [2942. Find Words Containing Character]( leetcode.com/problems/find-words-containing-character/description/)
+-  **LeetCode:** [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)
 
 ---
