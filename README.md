@@ -52,8 +52,8 @@ This is my personal 15-days challenge to build mini web dev projects and solve o
 ---
 
 ### ✅ Day 07  
--  **Project:** Ultraedit old website clone (Html, css) 
--  **Code:** [`/Day06`](./Day06) 
+-  **Project:** Ultra-edit old website clone (Html, css) 
+-  **Code:** [`/Day07`](./Day07) 
 -  **LeetCode:** [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 
 ---
