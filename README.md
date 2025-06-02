@@ -50,3 +50,10 @@ This is my personal 15-days challenge to build mini web dev projects and solve o
 -  **LeetCode:** [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)
 
 ---
+
+### ✅ Day 07  
+-  **Project:** Ultraedit old website clone (Html, css) 
+-  **Code:** [`/Day06`](./Day06) 
+-  **LeetCode:** [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+
+---

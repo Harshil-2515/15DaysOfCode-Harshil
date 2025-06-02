@@ -1,0 +1,127 @@
+li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    font-family: sans-serif;
+    
+}
+
+ul{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo img{
+    width: 164px;
+}
+
+.sec1{
+    display: flex
+    ;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        /* background-color: aquamarine; */
+        margin: 52px 22px;
+        padding: 22px;
+        gap: 16px;
+}
+
+.sec1 span{
+    font-size: 45px;
+    /* display: flex;
+    justify-items: center;
+    gap: 10px; */
+    font-family: sans-serif;
+} 
+section span img {
+    width: 122px;
+    margin: 0 20px;
+}
+
+.sec1 p {
+    text-align: center;
+    width: 655px;
+    font-size: 19px;
+    font-family: system-ui;
+}
+
+.sec1 button{
+    background-color: rgb(17, 149, 220);
+    font-size: 20px;
+    color: white;
+    padding: 9px 12px;
+    border-radius: 6px;
+    
+}
+
+.download{
+    /* background-color: aquamarine; */
+    display: flex;
+    align-items: center;
+    width: 65vw;
+    margin: auto;
+}
+
+.download img{
+    width: 53px;
+}
+
+.downtxt :nth-child(1){
+    font-size: 22px;
+    margin-right: 8px;
+}
+
+.downtxt{
+    font-family: sans-serif;
+}
+
+.cards{
+    
+    /* width: 225px;
+    display: flex;
+    justify-content: center;
+    gap: 22px;
+    width: 75vw;
+    flex-wrap: wrap;
+    margin: auto;
+    background-color: bisque; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 14px;
+    width: 65vw;
+    margin: 20px auto;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 16px;
+    background-color: #eee;
+}
+
+.card button{
+    background-color:rgb(94, 229, 94) ;
+    border: none;
+    border-radius: 6px;
+    padding: 7px 12px;
+    margin-top: 32px;
+    margin-bottom: 30px;
+}
+
+@media screen and (max-width: 750px)
+{
+    .cards{
+        grid-template-columns: 1fr;
+        /* align-items: center; */
+    }
+} 
