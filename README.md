@@ -53,7 +53,15 @@ This is my personal 15-days challenge to build mini web dev projects and solve o
 
 ### ✅ Day 07  
 -  **Project:** Ultraedit old website clone (Html, css) 
--  **Code:** [`/Day06`](./Day06) 
+-  **Code:** [`/Day07`](./Day07) 
 -  **LeetCode:** [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+
+---
+
+### ✅ Day 08  
+-  **Project:** Pokemon Card Generator 
+-  **Code:** [`/Day08`](./Day08) 
+-  **LeetCode:** [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)
+-  **LeetCode:** [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)
 
 ---
