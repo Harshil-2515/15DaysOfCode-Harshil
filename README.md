@@ -65,3 +65,11 @@ This is my personal 15-days challenge to build mini web dev projects and solve o
 -  **LeetCode:** [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)
 
 ---
+
+### ✅ Day 09  
+-  **Project:** Nike Webpage clone (Front-end) 
+-  **Code:** [`/Day09`](./Day09) 
+-  **LeetCode:** [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+-  **LeetCode:** [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)
+
+---
