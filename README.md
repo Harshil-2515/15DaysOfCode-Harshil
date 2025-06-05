@@ -73,3 +73,11 @@ This is my personal 15-days challenge to build mini web dev projects and solve o
 -  **LeetCode:** [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)
 
 ---
+
+### ✅ Day 10  
+-  **Project:** Quick-Blog (MERN) 
+-  **Code:** [`/Day10`](./Day10) 
+-  **LeetCode:** [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
+-  **LeetCode:** [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+
+---
