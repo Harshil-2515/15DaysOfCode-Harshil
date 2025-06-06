@@ -5,3 +5,4 @@
 ---
 
 - Day 1: Created Front end of home page 
+- Day 2: Created Front end of blog page 
