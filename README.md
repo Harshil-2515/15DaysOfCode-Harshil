@@ -76,7 +76,7 @@ This is my personal 15-days challenge to build mini web dev projects and solve o
 
 ### ✅ Day 10  
 -  **Project:** Quick-Blog (MERN) 
--  **Code:** [`/Day10_11`](./Day10_11) 
+-  **Code:** [`/Day10_11_12`](./Day10_11_12) 
 -  **LeetCode:** [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
 -  **LeetCode:** [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 
@@ -86,5 +86,11 @@ This is my personal 15-days challenge to build mini web dev projects and solve o
 -  **Project:** Quick-Blog (MERN) 
 -  **LeetCode:** [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
 -  **LeetCode:** [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+
+---
+
+### ✅ Day 12  
+-  **Project:** Quick-Blog (MERN) 
+-  **LeetCode:** [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/)
 
 ---
