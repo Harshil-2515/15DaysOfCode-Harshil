@@ -76,7 +76,7 @@ This is my personal 15-days challenge to build mini web dev projects and solve o
 
 ### ✅ Day 10  
 -  **Project:** Quick-Blog (MERN) 
--  **Code:** [`/Day10_11_12`](./Day10_11_12) 
+-  **Code:** [`/Day10_11_12_13`](./Day10_11_12_13) 
 -  **LeetCode:** [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
 -  **LeetCode:** [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 
@@ -92,5 +92,15 @@ This is my personal 15-days challenge to build mini web dev projects and solve o
 ### ✅ Day 12  
 -  **Project:** Quick-Blog (MERN) 
 -  **LeetCode:** [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+
+---
+
+### ✅ Day 13  
+-  **Project:** Quick-Blog (MERN) 
+-  **LeetCode:** [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+-  **LeetCode:** [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
+-  **LeetCode:** [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+-  **LeetCode:** [268. Missing Number](https://leetcode.com/problems/missing-number/description/)
+-  **LeetCode:** [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 
 ---
