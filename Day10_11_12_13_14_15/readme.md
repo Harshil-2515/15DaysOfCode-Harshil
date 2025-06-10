@@ -8,3 +8,5 @@
 - Day 2: Created Front end of blog page 
 - Day 3: Done routing and basic layout for admin section
 - Day 4: Not done
+- Day 5: Done basic layout for admin section
+- Day 6: Front end completed

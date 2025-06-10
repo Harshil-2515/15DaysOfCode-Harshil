@@ -104,3 +104,19 @@ This is my personal 15-days challenge to build mini web dev projects and solve o
 -  **LeetCode:** [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 
 ---
+
+### ✅ Day 14  
+-  **Project:** Quick-Blog (MERN) 
+-  **LeetCode:** [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
+
+---
+
+### ✅ Day 15 
+-  **Project:** Quick-Blog (MERN) Completed Front End part
+-  **LeetCode:** [704. Binary Search](https://leetcode.com/problems/binary-search/description/)
+-  **LeetCode:** [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
+
+---
+
+## 15 Days. 25 LeetCode Questions. 10 Mini Projects. Challenge Completed ✅
+## The grind doesn't stop here — the challenge may be over, but the consistency stays 💪🔥
